@@ -1,6 +1,6 @@
-print('Mohammad Radja')
+#task1
 
-#tugas1
+
 Firstname=input('what your first name')
 Lastname=input('what your last name')
 Fullname= Firstname + Lastname
